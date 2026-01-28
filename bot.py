@@ -3,7 +3,7 @@ import time
 import os
 
 BOT_TOKEN = os.getenv("8355895167:AAG17a8lmiYRujt7-6LNjqTQvDPoyeOx7lc")
-CHANNEL_ID = os.getenv("1003738328507")
+CHANNEL_ID = os.getenv("-1003738328507")
 
 while True:
     text = "🔥 Auto post from Render\n👉 https://t.me/yourchannel"

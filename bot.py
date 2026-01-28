@@ -11,7 +11,7 @@ while True:
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
     data = {
         "chat_id": CHANNEL_ID,
-        "text": text tes
+        "text": text test
     }
 
     requests.post(url, data=data)
